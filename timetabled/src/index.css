@@ -1,0 +1,23 @@
+.Event{
+  width: 100px;
+  border-radius: 5px;
+}
+
+.Event h5{
+  align-content: center;
+  line-height: 0px;
+}
+
+.green{
+  background-color: rgb(155, 255, 155);
+}
+
+.blue{
+  background-color: rgb(155, 155, 255);
+}
+
+.purple{
+  background-color: rgb(161, 97, 161);
+}
+
+

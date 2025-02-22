@@ -35,7 +35,7 @@ const Calendar = () => {
             <td></td>
             <td></td>
             <td></td>
-            <td></td>
+            <Event event='Cohort Lunch' color ='green'/>
             <td></td>
           </tr>
           <tr>
